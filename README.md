@@ -1,14 +1,14 @@
 # Thapar Pedia #
 Covid 19 Situation leads to many problems one is lack of Communication.
 
-Thapar Pedia is a platform where my aim is to gather our college student on a single platform where they can there queries or problems with the whole college
+Thapar Pedia is a platform where my aim is to gather our college student on a single platform where they can post there queries or problems with the whole college
 which will be solved by our college fellows.  
 
 Can we say it as a Quora for college??
 
-## WEBSITE  ##
-## ANDROID APK ##
-## IOS ##
+### WEBSITE  ###
+### ANDROID APK ###
+### IOS ###
 
 ## TECHNOLOGIES USE ##
 
