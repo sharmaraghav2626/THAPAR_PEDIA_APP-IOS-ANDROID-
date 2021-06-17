@@ -29,3 +29,11 @@ And other support libraries
 
 ## https://expo.io/artifacts/5e52b01c-db68-4b0a-a5c5-e78fa6194e62 ##
 
+### WEBSITE LINK ###
+https://60cafa650bd5d99162c8f678--thaparpedia.netlify.app
+
+
+
+
+CONTACT sharmaraghav2626@gmail.com for any query
+
